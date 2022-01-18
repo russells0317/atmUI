@@ -1,0 +1,66 @@
+html, body, form{
+    background-color: lightgreen;
+}
+
+.header{
+    text-align: center; 
+    font-family: 'Fjalla One', sans-serif;
+    font-size:4rem; 
+    color:white;
+    background-size: cover;
+    background-repeat: no repeat;
+}
+
+container.form{
+    display: flex;
+    font-family: 'Kreon', serif;
+    color:black;
+    margin: 15px;
+    padding: 5px;
+    background-color: lightgreen;
+    text-align: left;
+    align-items: left;
+    flex-direction: column;
+    height: 100%;
+}
+h2 {
+    align-items: left;
+    text-align: center;
+    
+}
+
+h3{
+    align-items: left;
+    text-align: center;
+}
+select {
+    align-items: left;
+    text-align: center;
+}
+
+mode-select{
+    align-items: left;
+    background-color: #E8EAF6;
+    margin: 50 50 8;
+    text-align-last: center;
+    text-align: center;
+}
+
+.h3#choice{
+    align-items: left;
+    text-align: center;
+}
+
+number-input {
+    align-items: left;
+    background-color: #E8EAF6;
+}
+input{
+    align-items: left;
+}
+submit-input {
+    align-items: left;
+    background-color: #E8EAF6;
+    color: #37474F;
+    text-transform: uppercase;
+}
